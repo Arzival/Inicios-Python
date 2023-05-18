@@ -1,0 +1,1 @@
+print("hola mundo desde mi archivo de variables")
